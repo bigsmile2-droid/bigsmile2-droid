@@ -1,16 +1,19 @@
-## Hi there 👋 i'm EMMANUEL CHUKWUBUIKEM ONUCHUKWU.
+## Hi there 👋 i'm EMMANUEL CHUKWUBUIKEM ONUCHUKWU.# Cybersecurity Training Repository
 
-<!--
-**bigsmile2-droid/bigsmile2-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains my cybersecurity learning materials, labs, and practice scripts.
 
-Here are some ideas to get you started:
+## Topics
+- Network Security
+- Linux Security
+- Ethical Hacking
+- Vulnerability Assessment
+- Python for Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Nmap
+- Wireshark
+- Metasploit
+- Burp Suite
+
+## Author
+Cybersecurity Trainee
