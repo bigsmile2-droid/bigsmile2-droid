@@ -1,3 +1,4 @@
+
 # Cisco Networking and Security Lab Project
 
 ## OVERVIEW
@@ -9,3 +10,18 @@ End to end simulation:Architect a functional multi-subnet network topology mirro
 Protocol analysis:inspect granular data packet behaviour,tracking TCP handshakes and encryption exchanges to ensure archtectural integrity.
 
 ## Tools and technologies 
+Network simulation:cisco packet tracer(v8.2+)
+​Framework Reference: Cisco Networking Academy (CCNA curriculum standards)
+​Core Network Suite: TCP/IP Protocol Suite
+​Application Services: DNS, HTTP, HTTPS
+​Security & Encryption: SSL / TLS (Secure Sockets Layer / Transport Layer Security)
+​Documentation & Version Control: Markdown, Git/GitHub
+
+## Feautures
+Network Topology & TCP/IP Foundation
+Hierarchical Infrastructure: Uses a structured layer model separating the Core, Distribution, and Access layers via managed switches and routers.Application Layer Implementations
+Centralized Domain Name System (DNS): Features a dedicated DNS server running resource records (A records) to translate human-readable domain names (e.g., www.enterprise.local) into target IP addresses.Cryptographic Security (SSL/TLS)
+Secure Session Handshake: Simulates the SSL/TLS negotiation phase where client and server exchange cipher suites, establish trust, and generate symmetric session keys.
+
+## Project preview
+
